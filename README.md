@@ -2,6 +2,8 @@
 A curated list of awesome best practices. 
 
 * [Android Best Practices](https://github.com/futurice/android-best-practices)
+* [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
+
 
 
 License
