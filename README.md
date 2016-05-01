@@ -1,6 +1,8 @@
 # Awesome Best Practices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome best practices. 
 
+Please read the [contributing guidelines](https://raw.githubusercontent.com/jcoady9/awesome-best-practices/master/contributions.md) page before making a pull request.
+
 * [Android Best Practices](https://github.com/futurice/android-best-practices)
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/)
