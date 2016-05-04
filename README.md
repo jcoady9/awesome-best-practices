@@ -5,10 +5,14 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # Table of Contents
 - [Android](#android)
+- [Clojure](#clojure)
 - [Python](#python)
 
 # Android
 * [Android Best Practices](https://github.com/futurice/android-best-practices)
+
+# Clojure
+* [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
 # Python
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
