@@ -11,6 +11,9 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 # Android
 * [Android Best Practices](https://github.com/futurice/android-best-practices)
 
+# C++
+* [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+
 # Clojure
 * [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
