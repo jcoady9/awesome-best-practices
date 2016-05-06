@@ -6,6 +6,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 # Table of Contents
 - [Android](#android)
 - [Clojure](#clojure)
+- [Go](#go)
 - [Python](#python)
 
 # Android
@@ -16,6 +17,9 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # Clojure
 * [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+
+# Go
+* [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
 
 # Python
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
