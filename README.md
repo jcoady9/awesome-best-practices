@@ -26,6 +26,8 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 * [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf)
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/)
 
+# Rust
+* [Rust Guidelines](http://aturon.github.io/)
 
 
 License
