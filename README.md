@@ -7,6 +7,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 - [Android](#android)
 - [Clojure](#clojure)
 - [Go](#go)
+- [Javascript](#javascript)
 - [Python](#python)
 
 # Android
@@ -21,10 +22,25 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 # Go
 * [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
 
+# Javascript
+* [Google Javascript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
+* [Idiomatic.js](https://github.com/rwaldron/idiomatic.js)
+* [JS Patterns](http://shichuan.github.io/javascript-patterns/)
+* [Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+# PHP
+* [PHP Best Practices](https://phpbestpractices.org/)
+* [PHP the Right Way](http://www.phptherightway.com/)
+* [PHP Security Guide](http://phpsec.org/projects/guide/)
+* [Surviving the Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/)  
+
 # Python
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 * [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf)
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/)
+
+# R
+* [Advanced R](http://adv-r.had.co.nz/)
 
 # Rust
 * [Rust Guidelines](http://aturon.github.io/)
