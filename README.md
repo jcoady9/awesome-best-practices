@@ -8,7 +8,10 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 - [Clojure](#clojure)
 - [Go](#go)
 - [Javascript](#javascript)
+- [PHP](#php)
 - [Python](#python)
+- [R](#r)
+- [Rust](#rust)
 
 # Android
 * [Android Best Practices](https://github.com/futurice/android-best-practices)
