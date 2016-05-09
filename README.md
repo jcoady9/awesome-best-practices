@@ -9,6 +9,8 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 - [Go](#go)
 - [Javascript](#javascript)
 - [PHP](#php)
+- [Powershell](#powershell)
+- [Prolog](#prolog)
 - [Python](#python)
 - [R](#r)
 - [Rust](#rust)
@@ -36,6 +38,12 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 * [PHP the Right Way](http://www.phptherightway.com/)
 * [PHP Security Guide](http://phpsec.org/projects/guide/)
 * [Surviving the Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/)  
+
+# Powershell
+* [The Community Book of PowerShell Best Practices](https://www.penflip.com/powershellorg/the-community-book-of-powershell-practices)
+
+# Prolog
+* [Coding Guidelines for Prolog](http://arxiv.org/pdf/0911.2899v3.pdf)
 
 # Python
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
