@@ -8,6 +8,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 - [Clojure](#clojure)
 - [Go](#go)
 - [Javascript](#javascript)
+- [Objective-C](#objective-c)
 - [PHP](#php)
 - [Powershell](#powershell)
 - [Prolog](#prolog)
@@ -32,6 +33,9 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 * [Idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 * [JS Patterns](http://shichuan.github.io/javascript-patterns/)
 * [Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+# Objective-C
+* [Google's Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml)
 
 # PHP
 * [PHP Best Practices](https://phpbestpractices.org/)
