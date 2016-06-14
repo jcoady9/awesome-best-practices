@@ -1,5 +1,5 @@
 # Awesome Best Practices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome best practices.
+A curated list of awesome best practices and style guides to make us all better programmers.
 
 Please read the [contributing guidelines](https://github.com/jcoady9/awesome-best-practices/blob/master/contributions.md) page before making a pull request.
 
@@ -14,6 +14,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 - [Prolog](#prolog)
 - [Python](#python)
 - [R](#r)
+- [Ruby](#ruby)
 - [Rust](#rust)
 
 # Android
@@ -57,6 +58,9 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # R
 * [Advanced R](http://adv-r.had.co.nz/)
+
+# Ruby
+* [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 
 # Rust
 * [Rust Guidelines](http://aturon.github.io/)
