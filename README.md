@@ -8,6 +8,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 - [Clojure](#clojure)
 - [Go](#go)
 - [Javascript](#javascript)
+- [MATLAB](#matlab)
 - [Objective-C](#objective-c)
 - [PHP](#php)
 - [Powershell](#powershell)
@@ -34,6 +35,9 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 * [Idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 * [JS Patterns](http://shichuan.github.io/javascript-patterns/)
 * [Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+# MATLAB
+* [MATLAB Programming Style Guidelines](http://www.ee.columbia.edu/~marios/matlab/MatlabStyle1p5.pdf)
 
 # Objective-C
 * [Google's Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml)
