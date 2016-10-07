@@ -16,6 +16,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Web Development](#web_development)
 
 # Android
 * [Android Best Practices](https://github.com/futurice/android-best-practices)
@@ -65,6 +66,8 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 # Rust
 * [Rust Guidelines](http://aturon.github.io/)
 
+# Web_Development
+* [Web Development practices by Google](https://github.com/google/WebFundamentals)
 
 License
 ---
