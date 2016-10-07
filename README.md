@@ -4,6 +4,7 @@ A curated list of awesome best practices and style guides to make us all better 
 Please read the [contributing guidelines](https://github.com/jcoady9/awesome-best-practices/blob/master/contributions.md) page before making a pull request.
 
 # Table of Contents
+- [General](#general)
 - [Android](#android)
 - [Clojure](#clojure)
 - [Go](#go)
@@ -16,6 +17,9 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
+
+# General
+* [Best Practices for Writing Readable Code](https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118)
 
 # Android
 * [Android Best Practices](https://github.com/futurice/android-best-practices)
