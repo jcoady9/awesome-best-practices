@@ -43,6 +43,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 * [PHP the Right Way](http://www.phptherightway.com/)
 * [PHP Security Guide](http://phpsec.org/projects/guide/)
 * [Surviving the Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/)  
+* [PHP-FIG PHP Standards Recommendations](http://www.php-fig.org/psr/)
 
 # Powershell
 * [The Community Book of PowerShell Best Practices](https://www.penflip.com/powershellorg/the-community-book-of-powershell-practices)
