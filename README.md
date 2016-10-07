@@ -7,6 +7,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 - [Android](#android)
 - [Clojure](#clojure)
 - [Go](#go)
+- [Ionic](#ionic)
 - [Javascript](#javascript)
 - [Objective-C](#objective-c)
 - [PHP](#php)
