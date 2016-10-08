@@ -7,6 +7,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 - [Android](#android)
 - [Clojure](#clojure)
 - [Go](#go)
+- [Java](#java)
 - [Javascript](#javascript)
 - [MATLAB](#matlab)
 - [Objective-C](#objective-c)
@@ -31,6 +32,9 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 # Go
 * [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
 * [Official Go Style Guide](https://github.com/golang/go/wiki/CodeReviewComments)
+
+# Java
+* [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
 # Javascript
 * [Google Javascript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
