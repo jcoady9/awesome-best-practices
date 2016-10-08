@@ -28,6 +28,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # Go
 * [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
+* [Official Go Style Guide](https://github.com/golang/go/wiki/CodeReviewComments)
 
 # Javascript
 * [Google Javascript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
