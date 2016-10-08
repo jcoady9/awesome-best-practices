@@ -59,6 +59,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # R
 * [Advanced R](http://adv-r.had.co.nz/)
+* [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 
 # Ruby
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
