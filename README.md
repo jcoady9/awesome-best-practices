@@ -7,6 +7,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 - [Android](#android)
 - [C](#C)
 - [Clojure](#clojure)
+- [Github](#github)
 - [Go](#go)
 - [Java](#java)
 - [Javascript](#javascript)
@@ -33,6 +34,13 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # Clojure
 * [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+
+# Github
+* [Documenting Your Projects](https://guides.github.com/features/wikis/)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Flow](https://guides.github.com/introduction/flow/)
+* [Pages](https://guides.github.com/features/pages/)
+* [Maging Your Code Citable](https://guides.github.com/activities/citable-code/)
 
 # Go
 * [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
