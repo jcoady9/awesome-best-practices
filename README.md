@@ -16,6 +16,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Swift](#swift)
 
 # Android
 * [Android Best Practices](https://github.com/futurice/android-best-practices)
@@ -67,6 +68,9 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # Rust
 * [Rust Guidelines](http://aturon.github.io/)
+
+# Swift
+* [Swift API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
 
 
 License
