@@ -19,6 +19,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Swift](#swift)
+- [Web Development](#web_development)
 
 # Android
 * [Android Best Practices](https://github.com/futurice/android-best-practices)
@@ -81,6 +82,8 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 # Swift
 * [Swift API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
 
+# Web_Development
+* [Web Development practices by Google](https://github.com/google/WebFundamentals)
 
 License
 ---
