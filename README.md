@@ -5,6 +5,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # Table of Contents
 - [Android](#android)
+- [C](#C)
 - [Clojure](#clojure)
 - [Go](#go)
 - [Java](#java)
@@ -23,6 +24,9 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # Android
 * [Android Best Practices](https://github.com/futurice/android-best-practices)
+
+# C
+* [Recommended C Style and Coding Standards](https://www.doc.ic.ac.uk/lab/cplus/cstyle.html)
 
 # C++
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
