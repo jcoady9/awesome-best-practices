@@ -42,7 +42,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 * [PHP Best Practices](https://phpbestpractices.org/)
 * [PHP the Right Way](http://www.phptherightway.com/)
 * [PHP Security Guide](http://phpsec.org/projects/guide/)
-* [Surviving the Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/)
+* [Surviving the Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/)  
 * [Symfony Best Practices](http://symfony.com/doc/current/best_practices/index.html)
 
 # Powershell
