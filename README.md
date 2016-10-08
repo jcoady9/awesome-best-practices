@@ -57,6 +57,8 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 * [PHP Security Guide](http://phpsec.org/projects/guide/)
 * [Surviving the Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/)  
 * [PHP-FIG PHP Standards Recommendations](http://www.php-fig.org/psr/)
+* [Symfony Best Practices](http://symfony.com/doc/current/best_practices/index.html)
+>>>>>>> javiereguiluz-add_symfony
 
 # Powershell
 * [The Community Book of PowerShell Best Practices](https://www.penflip.com/powershellorg/the-community-book-of-powershell-practices)
