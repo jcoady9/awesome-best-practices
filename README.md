@@ -6,6 +6,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 # Table of Contents
 - [Android](#android)
 - [C](#C)
+- [CSS](#css)
 - [Clojure](#clojure)
 - [Github](#github)
 - [Go](#go)
@@ -31,6 +32,10 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # C++
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+
+# CSS
+* [CSS Guidelines](http://cssguidelin.es/)
+* [MDN: Writing efficient CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS)
 
 # Clojure
 * [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
