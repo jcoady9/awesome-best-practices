@@ -6,6 +6,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 # Table of Contents
 - [Android](#android)
 - [C](#C)
+- [C++](#c-1)
 - [Clojure](#clojure)
 - [Github](#github)
 - [Go](#go)
