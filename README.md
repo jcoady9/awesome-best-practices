@@ -94,6 +94,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # Web_Development
 * [Web Development practices by Google](https://github.com/google/WebFundamentals)
+* [Clientside jQuery Best Practices](https://github.com/holidayextras/culture/blob/master/clientside-jquery-best-practices.md)
 
 License
 ---
