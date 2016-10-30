@@ -33,6 +33,8 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # C++
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+* [C++ Best Practices](https://www.gitbook.com/book/lefticus/cpp-best-practices/details)
+* [ISO C++ Coding Standards](https://isocpp.org/wiki/faq/coding-standards)
 
 # CSS
 * [CSS Guidelines](http://cssguidelin.es/)
