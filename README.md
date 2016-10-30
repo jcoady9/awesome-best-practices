@@ -30,6 +30,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # C
 * [Recommended C Style and Coding Standards](https://www.doc.ic.ac.uk/lab/cplus/cstyle.html)
+* [NASA C Style Guide (1994)](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf)
 
 # C++
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
