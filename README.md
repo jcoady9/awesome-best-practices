@@ -49,6 +49,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 * [Google Javascript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 * [Idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 * [JS Patterns](http://shichuan.github.io/javascript-patterns/)
+* [JS: The Right Way](http://jstherightway.org/)
 * [Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 * [Javascript Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
