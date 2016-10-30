@@ -51,6 +51,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 * [JS Patterns](http://shichuan.github.io/javascript-patterns/)
 * [Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
+* [Javascript Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 # MATLAB
 * [MATLAB Programming Style Guidelines](http://www.ee.columbia.edu/~marios/matlab/MatlabStyle1p5.pdf)
