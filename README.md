@@ -51,6 +51,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # Java
 * [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+* [Java Programming Style Guide](http://javaranch.com/style.jsp)
 
 # Javascript
 * [Google Javascript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
