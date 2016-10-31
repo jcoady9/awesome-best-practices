@@ -95,6 +95,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # Ruby
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+* [Practicing Ruby](http://practicingruby.com/)
 
 # Rust
 * [Rust Guidelines](http://aturon.github.io/)
