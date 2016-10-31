@@ -94,10 +94,10 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # Ruby
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
-* [Practicing Ruby](http://practicingruby.com/)
 
 # Rust
 * [Rust Guidelines](http://aturon.github.io/)
+* [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/)
 
 # Swift
 * [Swift API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
