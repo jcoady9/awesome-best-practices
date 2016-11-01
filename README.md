@@ -27,6 +27,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # Android
 * [Android Best Practices](https://github.com/futurice/android-best-practices)
+* [Google's Android Best Practices Guide](https://developer.android.com/guide/practices/index.html)
 
 # C
 * [Recommended C Style and Coding Standards](https://www.doc.ic.ac.uk/lab/cplus/cstyle.html)
