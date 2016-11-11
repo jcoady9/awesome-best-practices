@@ -94,6 +94,7 @@ Please read the [contributing guidelines](https://github.com/jcoady9/awesome-bes
 
 # Ruby
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+* [Best Ruby](https://github.com/franzejr/best-ruby)
 
 # Rust
 * [Rust Guidelines](http://aturon.github.io/)
